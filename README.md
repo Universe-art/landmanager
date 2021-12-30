@@ -1,5 +1,7 @@
 # How can I test landmanager smart contract with hardhat ?
 
+Download all the content of this folder on your machine
+
 Install nodejs
 
 
